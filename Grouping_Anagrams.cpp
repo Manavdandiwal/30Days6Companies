@@ -6,6 +6,9 @@ words[] = {act,god,cat,dog,tac}
 Output: 
 god dog
 act cat tac
+
+Problem Link :- 
+https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/
 */
 
 class Solution{
